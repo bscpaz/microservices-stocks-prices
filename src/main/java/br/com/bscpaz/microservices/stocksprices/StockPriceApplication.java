@@ -6,10 +6,10 @@ import org.springframework.data.web.config.EnableSpringDataWebSupport;
 
 @SpringBootApplication
 @EnableSpringDataWebSupport
-public class StocksPriceApplication {
+public class StockPriceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StocksPriceApplication.class, args);
+		SpringApplication.run(StockPriceApplication.class, args);
 	}
 
 }
