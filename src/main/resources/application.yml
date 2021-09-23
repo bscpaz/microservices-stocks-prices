@@ -1,0 +1,4 @@
+#Porta do servidor
+server:
+  port: ${ENV_PORT:7400}
+
